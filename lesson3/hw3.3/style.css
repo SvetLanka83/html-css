@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+section{
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 30px;
+    font-family: Arial, sans-serif;
+}
+section p{
+    width: 80%;
+}
+
+#section-coral{
+    background-color: coral;
+}
+#section-aqua{
+    background-color: aqua;
+}
+#section-darkolivegreen{
+    background-color: darkolivegreen;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
