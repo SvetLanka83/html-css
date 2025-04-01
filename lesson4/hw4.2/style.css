@@ -20,6 +20,11 @@ footer{
     background: #BDBDBD;
     color: #000;
 }
+p {
+    font-family: "Inter", sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+}
 .main__contents-1{
     background: #776969;
 }
@@ -44,8 +49,3 @@ header,section,aside,footer{
     justify-content: center;
     align-items: center;
 }
-p {
-    font-family: "Inter", sans-serif;
-    font-size: 45px;
-    font-weight: 400;
-        }
