@@ -7,12 +7,10 @@
 
 @keyframes preloader {
     from {
-        transform: scale(1);
         background: #FF7143;
         border-radius: 0;
     }
     10% {
-        transform: scale(1);
         background: #FF7143;
         border-radius: 0;
     }
@@ -23,7 +21,7 @@
     50% {
         background: hotpink;
         border-radius: 50%;
-        transform: rotate(180deg);
+
     }
     75% {
         background: purple;
@@ -32,11 +30,11 @@
     90% {
         background: lightseagreen;
         border-radius: 0;
-        transform: rotate(360deg);
+
     }
     to {
         background: lightseagreen;
         border-radius: 0;
-        transform: rotate(360deg);
+
     }
 }
