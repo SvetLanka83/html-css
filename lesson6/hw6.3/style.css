@@ -37,21 +37,21 @@ width: 78%;
     border-radius: 8px;
     margin-top: 20px;
 }
-form span{
+.form span{
     margin: 10px 0;
     color: gray;
 }
-form p svg {
+.form p svg {
     margin-bottom: -5px;
 
 
 }
-form p{
+.form p{
     color: #3f51b5;
     margin: 15px 0;
 
 }
-form a {
+.form a {
     color: #3f51b5;
     text-decoration: none;
     margin-bottom: 15px;
